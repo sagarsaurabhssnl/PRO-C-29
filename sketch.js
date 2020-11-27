@@ -159,6 +159,7 @@ function draw() {
   pop();
 
   text("Press R to reset", 20, 580);
+  text("Press Space to reposition the polygon", 20, 560);
 }
 
 function mouseDragged() {
